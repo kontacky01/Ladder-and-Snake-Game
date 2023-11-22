@@ -1,8 +1,8 @@
 /** -------------------------------------------------------
  * Assignment (1)
  * Due February 07th
- * Written by: (Natasha Uwase 40212108)
- * For COMP 249 Section (WW) – Winter 2022
+ * Written by: (Natasha Uwase)
+ * For COMP 249 Section (WW) â€“ Winter 2022
  * --------------------------------------------------------
  * this is a testing class for classes player and ladderandsnake
  * main feature is that the programm asks user to enter the number of players and their names
